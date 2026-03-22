@@ -1,4 +1,4 @@
-# FISHTANK Skimmer v5.1
+# FISHTANK CAPTURE v5.1
 
 **Multi-stream HLS capture tool for fishtank.live**
 
